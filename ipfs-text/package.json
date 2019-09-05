@@ -1,0 +1,18 @@
+{
+  "name": "ipfs-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "simpleid-node-sdk": "0.0.5",
+    "twilio": "^3.34.0"
+  }
+}

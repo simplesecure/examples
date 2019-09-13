@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  margin-top: 25px;
+}
+
+
+.editor {
+  max-width: 85%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.editable {
+  max-width: 85%;
+  margin: auto;
+  border: 1px solid #282828;
+  border-radius: 3px;
+  min-height: 500px;
+  padding: 15px;
+  text-align: left;
+}
+
+.versionPaneOpen {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 250px;
+  z-index: 999;
+  border-left: 2px solid #282828;
+  height: 100vh;
+  background: #eee;
+  display: inline;
+}
+
+.versionPaneClosed {
+  display: none;
+}
+
+.versionModalOpen {
+  display: inline;
+  position: fixed;
+  text-align: left;
+  left: 12.5%;
+  top: 15%;
+  width: 75%;
+  min-height: 500px;
+  margin: auto;
+  z-index: 999;
+  background: #eee;
+  padding: 25px;
+  border: 1px solid #282828;
+  border-radius: 3px;
+}
+
+.versionModalClosed {
+  display: none;
+}
+
+#version-close {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

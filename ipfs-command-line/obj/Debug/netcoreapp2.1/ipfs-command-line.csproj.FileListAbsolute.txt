@@ -1,0 +1,11 @@
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/bin/Debug/netcoreapp2.1/ipfs-command-line.deps.json
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/bin/Debug/netcoreapp2.1/ipfs-command-line.runtimeconfig.json
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/bin/Debug/netcoreapp2.1/ipfs-command-line.runtimeconfig.dev.json
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/bin/Debug/netcoreapp2.1/ipfs-command-line.dll
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/bin/Debug/netcoreapp2.1/ipfs-command-line.pdb
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/obj/Debug/netcoreapp2.1/ipfs-command-line.csprojAssemblyReference.cache
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/obj/Debug/netcoreapp2.1/ipfs-command-line.csproj.CoreCompileInputs.cache
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/obj/Debug/netcoreapp2.1/ipfs-command-line.AssemblyInfoInputs.cache
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/obj/Debug/netcoreapp2.1/ipfs-command-line.AssemblyInfo.cs
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/obj/Debug/netcoreapp2.1/ipfs-command-line.dll
+/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/obj/Debug/netcoreapp2.1/ipfs-command-line.pdb

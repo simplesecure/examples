@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/ipfs-command-line.csproj": {}
+  },
+  "projects": {
+    "/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/ipfs-command-line.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/ipfs-command-line.csproj",
+        "projectName": "ipfs-command-line",
+        "projectPath": "/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/ipfs-command-line.csproj",
+        "packagesPath": "/Users/polluterofminds/.nuget/packages/",
+        "outputPath": "/Users/polluterofminds/Documents/development/simpleid/examples/ipfs-command-line/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/polluterofminds/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

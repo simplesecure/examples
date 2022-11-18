@@ -6,7 +6,7 @@
     "3box": "^1.10.10",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },
